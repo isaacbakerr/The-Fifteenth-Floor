@@ -2,6 +2,8 @@
 
 A playable first-person experiment exploring fifteen Salvador Dalí paintings through an elevator. Built with Three.js, TypeScript and Vite. The name reflects the fifteen painting worlds in the collection.
 
+Play here: https://the-fifteenth-floor.vercel.app/
+
 ## The experiment
 
 This project explores how **GPT-6.1 Sol** could interpret Surrealist paintings and develop them into spaces you can step into. Salvador Dalí’s paintings served as visual references, while the model helped turn their unusual forms, perspectives and atmosphere into an interactive 3D experience through code.
